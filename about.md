@@ -1,5 +1,5 @@
 --
-layou: Defualt
+layout: Defualt
 Title: About Me
 ---
 # About Me
