@@ -1,7 +1,7 @@
---
-layout: Defualt
-Title: About Me
+---
+layout: default
+title: About Me
 ---
 # About Me
-Hello! I am [Nayeli B].
-My current top career choice is cosmotoaly because its something i enjoy doing and if i already anjoy it i could get paid for it to. It connects to my lifestyle goals because
+Hello! I am [NB].
+The career that is my top choice right now is cosmetology because it's something I enjoy doing and if I enjoy it I would like to get a job I enjoy doing. It connects to my life style goals because it will help me earn money which is something that I need to be able to accomplish my gaols in life. Skills from this course will help me succen because it's going to help me communicate and collaborate more with people which is something that is very much needed in that job.
