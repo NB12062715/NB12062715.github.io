@@ -46,7 +46,7 @@
 |------|------------|--------------------------|-------------------|-------------|
 | Variable    | A named container used to store a value that may change. | `var x = 5;` | age,hair,height |  |
 | Constant   | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-| Data type     | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+| Data type     | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |name,videos,pictures  |  |
 | String     | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
 | Integer     | Whole number values. | `int age = 16;` |  |  |
 | Double     | Number values with decimals. | `double age = 16.2;` |  |  |
