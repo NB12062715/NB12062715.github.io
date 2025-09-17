@@ -6,7 +6,7 @@
   - [Practice](#practice)
 - [Key Terms and Definitions](#key-terms-and-definitions)
 -[Code Definitions](#code-definitions)
--[Definitions with Structures](#flutter-definitions-with-structure)
+-[Flutter Definitions with structures](#flutter-definitions-with-structure)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Flutter Notes
